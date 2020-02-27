@@ -11,7 +11,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook) </br>
 -[Listview in Flutter](https://api.flutter.dev/flutter/widgets/ListView-class.html) </br>
 -[CustomScrollView](https://api.flutter.dev/flutter/widgets/CustomScrollView-class.html)</br>
--[Navigation and routing] (https://flutter.dev/docs/development/ui/navigation)</br>
+-[Navigation and routing](https://flutter.dev/docs/development/ui/navigation)</br>
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
