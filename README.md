@@ -1,6 +1,5 @@
 # kahve_cesitleri_flutter
-
-A new Flutter application.
+This is first Flutter Project
 
 ## Getting Started
 
